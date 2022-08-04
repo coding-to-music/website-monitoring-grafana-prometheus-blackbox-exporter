@@ -1,0 +1,21 @@
+{
+  "name": "website-monitoring-grafana-prometheus-blackbox-exporter",
+  "version": "1.0.0",
+  "description": "![web-1](screenshots/website-monitoring_1.png)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbelloiseau/website-monitoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbelloiseau/website-monitoring/issues"
+  },
+  "homepage": "https://github.com/mbelloiseau/website-monitoring#readme"
+}
